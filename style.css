@@ -3,3 +3,32 @@ body{
     padding: 0;
     font-family: 'Montserrat', sans-serif;
 }
+/* Typography */
+h1{
+    font-size: 50px;
+    margin: 0;
+}
+h2{
+    font-size: 40px;
+    margin: 0;
+}
+h3{
+    font-size: 24px;
+    margin: 0;
+}
+p{
+    font-size: 18px;
+    margin: 0;
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+    align-items: center;
+}
+.half-width{
+    width: 50%;
+}
+.man{
+    width: 100%;
+}
