@@ -134,3 +134,16 @@ a{
 .dribble{
     text-align: center;
 }
+footer{
+    padding: 50px 0;
+    background-image: url(./Images/7.png);
+}
+footer h3{
+    text-align: center;
+    margin: 0;
+    color: #5B5B5B;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
